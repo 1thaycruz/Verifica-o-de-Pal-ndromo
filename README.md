@@ -1,1 +1,0 @@
-# Verifica-o-de-Pal-ndromo
